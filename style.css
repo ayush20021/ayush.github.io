@@ -1,3 +1,4 @@
+@import url("https://db.onlinewebfonts.com/c/ac95f91c55cc591ecf37a4d136ff8031?family=BMWTypeNext+Pro+Regular");
 .b1 {
   border: black dotted;
 }
@@ -20,7 +21,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "BMWTypeNext Pro Regular";
   color: black;
 }
 
@@ -112,4 +113,28 @@ video {
 .dls {
   padding-left: 30px;
   color: white;
+}
+.carousel-caption {
+  text-align: left;
+  left: 5%;
+  right: auto;
+  top: 40%;
+}
+.kbtn {
+  margin-top: 10px;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  background-color: transparent;
+  border: 3px white solid;
+  color: white;
+  border-radius: 3px;
+}
+
+.fc {
+  padding-top: 80px;
+}
+.bg-dark {
+  background-color: #f6f6f6 !important;
 }
