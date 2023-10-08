@@ -1,0 +1,19 @@
+/* body {
+  background-image: url(IMG/BACKGROUND\ IMG.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+} */
+.kbt {
+  background-color: transparent;
+  color: white;
+  border: white 2px solid;
+  margin-left: 60px;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.details {
+  padding-left: 30px;
+  margin-left: 30px;
+}
